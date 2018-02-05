@@ -1,0 +1,1 @@
+This Godette chan model is, perhaps ironicaly, still not tested on the godot engine, but feel free to do it, I'll probably try later
